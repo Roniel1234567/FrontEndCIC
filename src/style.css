@@ -1,0 +1,13 @@
+body {
+  color: azure;
+  width: 100%;
+  border: 5px red;
+}
+body p {
+  text-align: justify;
+}
+body div {
+  padding: auto;
+}
+
+/*# sourceMappingURL=style.css.map */
